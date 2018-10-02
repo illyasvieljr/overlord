@@ -9,7 +9,7 @@ on 10/20/2007 to a new format, and 1/10/2010 to include
 time zone offset.
 */
 
-var current="";   //-->enter what you want the script to display when the target date and time are reached, limit to 20 characters
+var current="www.noveliar.com";   //-->enter what you want the script to display when the target date and time are reached, limit to 20 characters
 var year=2018;    //-->Enter the count down target date YEAR
 var month=10;      //-->Enter the count down target date MONTH
 var day=2;       //-->Enter the count down target date DAY
